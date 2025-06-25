@@ -1,5 +1,5 @@
 ## Müşteri Deneyimi Analizi – Bitirme Projesi
-Bu proje, [Kız Başına Veri Analizi Bootcamp](https://www.patika.dev/) kapsamında hazırlanan birinci bitirme çalışmasıdır. Projede, bir müşteri deneyimi veri seti kullanılarak müşteri sadakati ve memnuniyetini etkileyen faktörler analiz edilmiştir.
+Bu proje, Kız Başına Veri Analizi Bootcamp kapsamında hazırlanan birinci bitirme çalışmasıdır. Projede, bir müşteri deneyimi veri seti kullanılarak müşteri sadakati ve memnuniyetini etkileyen faktörler analiz edilmiştir.
 
 ### Proje Amacı
 Veri setinde yer alan demografik ve davranışsal veriler kullanılarak:
